@@ -1,0 +1,6 @@
+.image/cat.jpg {
+    width: 251px;
+    height: 258px;
+    background-image: url(.image/cat.jpg);
+}
+    width: 0px;
